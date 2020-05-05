@@ -1,4 +1,3 @@
-
 @media (min-width: 1200px) {
     .container-big{
         max-width: 1280px;
@@ -32,7 +31,20 @@
 #influence p{
     font-family:Open Sans, Helvetica, sans-serif;
     color: #ffffff;
-    font-size: 17px;
+    font-size: 14px;
     font-weight: 400;
     text-align: right;
+}
+
+#influence a {
+    border: 1px solid #c77e19;
+    color:#f7b10a;
+    font-size:15px;
+    font-weight: 300;
+    text-align: center;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px 27px;
+
 }
