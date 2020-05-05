@@ -13,7 +13,7 @@
 #influence h2{
     font-family:Open Sans, Helvetica, sans-serif;
     color: #ebdec2;
-    font-size: 17px;
+    font-size: 16px;
     font-weight: 400;
     text-transform: uppercase;
     text-align: right;
@@ -31,10 +31,12 @@
 
 #influence p{
     font-family:Open Sans, Helvetica, sans-serif;
-    color: #ffffff;
-    font-size: 14px;
+    color: #ebdec2;
+    font-size: 17px;
     font-weight: 400;
     text-align: right;
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
 
 #influence a {
@@ -45,6 +47,7 @@
     text-transform: uppercase;
     text-decoration: none;
     margin-bottom:70px;
+    margin-top: 15px;
 
 }
 
@@ -63,7 +66,7 @@
 #avenement h2{
     font-family:Open Sans, Helvetica, sans-serif;
     color: #ebdec2;
-    font-size: 17px;
+    font-size: 16px;
     font-weight: 400;
     text-transform: uppercase;
     text-align: left;
@@ -81,11 +84,12 @@
 
 #avenement p{
     font-family:Open Sans, Helvetica, sans-serif;
-    color: #ffffff;
-    font-size: 14px;
+    color: #ebdec2;
+    font-size: 17px;
     font-weight: 400;
     text-align:left;
-    margin-top: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
 
 #avenement a {
@@ -96,4 +100,5 @@
     text-transform: uppercase;
     text-decoration: none;
     margin-bottom:70px;
+    margin-top: 15px;
 }
