@@ -102,3 +102,34 @@
     margin-bottom:70px;
     margin-top: 15px;
 }
+
+
+#notesdemiseajour {
+    background-color: black;
+
+}
+
+#notesdemiseajour .text{
+    background-color: #211510;
+    text-align: center;
+    padding: 20px 30px;
+
+}
+
+
+#notesdemiseajour h1{
+    color:#f8b700;
+
+}
+
+#notesdemiseajour p{
+    color:rgb(235, 222, 194);
+}
+
+#notesdemiseajour .img-responsive{
+    width: 100%;
+    object-fit: cover;
+    height: 500px;
+    border: 1px;
+border-color:#504137 ;
+}
